@@ -14,7 +14,7 @@ Week 1
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/working-with-linq
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/attributes
 
-- [ ] https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN
+- [x] https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN
 
 Week 2
 Blazor
