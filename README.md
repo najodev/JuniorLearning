@@ -2,7 +2,7 @@
 Junior Developer Learning Path
 
 Week 1
-- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tour-of-csharp/tutorials/local-environment
+- [X] https://docs.microsoft.com/en-au/dotnet/csharp/tour-of-csharp/tutorials/local-environment
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp-local
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tour-of-csharp/tutorials/branches-and-loops-local
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tour-of-csharp/tutorials/arrays-and-collections
