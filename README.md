@@ -7,8 +7,8 @@ Week 1
 - [x] https://docs.microsoft.com/en-au/dotnet/csharp/tour-of-csharp/tutorials/branches-and-loops-local
 - [x] https://docs.microsoft.com/en-au/dotnet/csharp/tour-of-csharp/tutorials/arrays-and-collections
 - [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes
-- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming
-- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-teleprompter
+- [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming
+- [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-teleprompter
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-webapiclient
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/inheritance
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/working-with-linq
