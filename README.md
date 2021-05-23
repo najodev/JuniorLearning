@@ -9,10 +9,10 @@ Week 1
 - [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes
 - [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming
 - [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-teleprompter
-- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-webapiclient
-- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/inheritance
-- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/working-with-linq
-- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/attributes
+- [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-webapiclient
+- [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/inheritance
+- [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/working-with-linq
+- [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/attributes
 
 - [x] https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN
 
