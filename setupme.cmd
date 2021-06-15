@@ -1,0 +1,14 @@
+winget install Microsoft.VisualStudioCode
+winget install Microsoft.VisualStudio.2019.Enterprise
+winget install Microsoft.VisualStudio.2019.Enterprise-Preview
+winget install Microsoft.Office
+winget install Audacity
+winget install TechSmith.Camtasia
+winget install Amazon.WorkspacesClient
+winget install Microsoft.AzureDataStudio
+winget install DBBrowserForSQLite.DBBrowserForSQLite
+winget install Microsoft.Git
+winget install GitHub.GitLFS
+winget install GitHub.GitHubDesktopBeta
+winget install Microsoft.PowerBI
+winget install DaxStudio.DaxStudio
