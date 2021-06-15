@@ -1,6 +1,24 @@
 # JuniorLearning
 Junior Developer Learning Path
 
+Welcome to the TribeTech Junior Learning Development Path. 
+
+The good news is you are here!
+The next news is you have GitHub.
+
+Please do the following
+
+**DO NOT EDIT THE INFORMATION IN THIS REPO**
+
+Please **Fork** this repo and add @nickbeau to your new forked repo.
+When completing each module below (which should be stored in a new folder, checkin a new **branch**, perform a **pull request** and set **@nickbeau** to be a reviewer. That way you'll get rapid feedback and lots of information on how you are going.
+
+**Setting up your development Machine [Windows Only]**
+1. Install [Winget](https://www.microsoft.com/en-au/p/app-installer/9nblggh4nns1?ocid=9nblggh4nns1_ORSEARCH_Bing&rtc=2&activetab=pivot:overviewtab)
+2. Run the [Setmeup.cmd](Setmeup.cmd) file
+3. Clone your **forked** repo (See above)
+
+
 Week 1
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tour-of-csharp/tutorials/local-environment
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp-local
