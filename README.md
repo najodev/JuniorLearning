@@ -26,12 +26,12 @@ Week 1
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tour-of-csharp/tutorials/arrays-and-collections
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming
+- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/inheritance
+- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/exploration/interpolated-strings
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-teleprompter
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-webapiclient
-- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/inheritance
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/working-with-linq
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/attributes
-
 - [ ] https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN
 
 Week 2
