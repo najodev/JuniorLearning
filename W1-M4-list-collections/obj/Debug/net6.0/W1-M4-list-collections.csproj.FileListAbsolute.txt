@@ -1,0 +1,15 @@
+/home/najo/files/JuniorLearning/W1-M4-list-collections/bin/Debug/net6.0/W1-M4-list-collections
+/home/najo/files/JuniorLearning/W1-M4-list-collections/bin/Debug/net6.0/W1-M4-list-collections.deps.json
+/home/najo/files/JuniorLearning/W1-M4-list-collections/bin/Debug/net6.0/W1-M4-list-collections.runtimeconfig.json
+/home/najo/files/JuniorLearning/W1-M4-list-collections/bin/Debug/net6.0/W1-M4-list-collections.dll
+/home/najo/files/JuniorLearning/W1-M4-list-collections/bin/Debug/net6.0/ref/W1-M4-list-collections.dll
+/home/najo/files/JuniorLearning/W1-M4-list-collections/bin/Debug/net6.0/W1-M4-list-collections.pdb
+/home/najo/files/JuniorLearning/W1-M4-list-collections/obj/Debug/net6.0/W1-M4-list-collections.csproj.AssemblyReference.cache
+/home/najo/files/JuniorLearning/W1-M4-list-collections/obj/Debug/net6.0/W1-M4-list-collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/najo/files/JuniorLearning/W1-M4-list-collections/obj/Debug/net6.0/W1-M4-list-collections.AssemblyInfoInputs.cache
+/home/najo/files/JuniorLearning/W1-M4-list-collections/obj/Debug/net6.0/W1-M4-list-collections.AssemblyInfo.cs
+/home/najo/files/JuniorLearning/W1-M4-list-collections/obj/Debug/net6.0/W1-M4-list-collections.csproj.CoreCompileInputs.cache
+/home/najo/files/JuniorLearning/W1-M4-list-collections/obj/Debug/net6.0/W1-M4-list-collections.dll
+/home/najo/files/JuniorLearning/W1-M4-list-collections/obj/Debug/net6.0/ref/W1-M4-list-collections.dll
+/home/najo/files/JuniorLearning/W1-M4-list-collections/obj/Debug/net6.0/W1-M4-list-collections.pdb
+/home/najo/files/JuniorLearning/W1-M4-list-collections/obj/Debug/net6.0/W1-M4-list-collections.genruntimeconfig.cache
