@@ -1,0 +1,15 @@
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/bin/Debug/net6.0/NumbersInCsharp
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/bin/Debug/net6.0/NumbersInCsharp.deps.json
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/bin/Debug/net6.0/NumbersInCsharp.runtimeconfig.json
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/bin/Debug/net6.0/NumbersInCsharp.dll
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/bin/Debug/net6.0/ref/NumbersInCsharp.dll
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/bin/Debug/net6.0/NumbersInCsharp.pdb
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/obj/Debug/net6.0/NumbersInCsharp.csproj.AssemblyReference.cache
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/obj/Debug/net6.0/NumbersInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/obj/Debug/net6.0/NumbersInCsharp.AssemblyInfoInputs.cache
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/obj/Debug/net6.0/NumbersInCsharp.AssemblyInfo.cs
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/obj/Debug/net6.0/NumbersInCsharp.csproj.CoreCompileInputs.cache
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/obj/Debug/net6.0/NumbersInCsharp.dll
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/obj/Debug/net6.0/ref/NumbersInCsharp.dll
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/obj/Debug/net6.0/NumbersInCsharp.pdb
+/home/najo/files/JuniorLearning/W1-M2-numbers-in-csharp-local/numbers-quickstart/obj/Debug/net6.0/NumbersInCsharp.genruntimeconfig.cache
