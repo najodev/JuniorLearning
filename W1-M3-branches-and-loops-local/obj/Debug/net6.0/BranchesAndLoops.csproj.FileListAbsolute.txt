@@ -1,0 +1,15 @@
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/bin/Debug/net6.0/BranchesAndLoops
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/bin/Debug/net6.0/BranchesAndLoops.deps.json
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/bin/Debug/net6.0/BranchesAndLoops.runtimeconfig.json
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/bin/Debug/net6.0/BranchesAndLoops.dll
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/bin/Debug/net6.0/ref/BranchesAndLoops.dll
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/bin/Debug/net6.0/BranchesAndLoops.pdb
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/obj/Debug/net6.0/BranchesAndLoops.csproj.AssemblyReference.cache
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/obj/Debug/net6.0/BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/obj/Debug/net6.0/BranchesAndLoops.AssemblyInfoInputs.cache
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/obj/Debug/net6.0/BranchesAndLoops.AssemblyInfo.cs
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/obj/Debug/net6.0/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/obj/Debug/net6.0/BranchesAndLoops.dll
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/obj/Debug/net6.0/ref/BranchesAndLoops.dll
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/obj/Debug/net6.0/BranchesAndLoops.pdb
+/home/najo/files/JuniorLearning/W1-M3-branches-and-loops-local/obj/Debug/net6.0/BranchesAndLoops.genruntimeconfig.cache
