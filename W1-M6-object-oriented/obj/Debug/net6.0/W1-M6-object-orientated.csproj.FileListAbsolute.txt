@@ -1,0 +1,15 @@
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/obj/Debug/net6.0/W1-M6-object-orientated.csproj.AssemblyReference.cache
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/obj/Debug/net6.0/W1-M6-object-orientated.GeneratedMSBuildEditorConfig.editorconfig
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/obj/Debug/net6.0/W1-M6-object-orientated.AssemblyInfoInputs.cache
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/obj/Debug/net6.0/W1-M6-object-orientated.AssemblyInfo.cs
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/obj/Debug/net6.0/W1-M6-object-orientated.csproj.CoreCompileInputs.cache
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/bin/Debug/net6.0/W1-M6-object-orientated
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/bin/Debug/net6.0/W1-M6-object-orientated.deps.json
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/bin/Debug/net6.0/W1-M6-object-orientated.runtimeconfig.json
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/bin/Debug/net6.0/W1-M6-object-orientated.dll
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/bin/Debug/net6.0/ref/W1-M6-object-orientated.dll
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/bin/Debug/net6.0/W1-M6-object-orientated.pdb
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/obj/Debug/net6.0/W1-M6-object-orientated.dll
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/obj/Debug/net6.0/ref/W1-M6-object-orientated.dll
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/obj/Debug/net6.0/W1-M6-object-orientated.pdb
+/home/najo/files/JuniorLearning/W1-M6-object-oriented/obj/Debug/net6.0/W1-M6-object-orientated.genruntimeconfig.cache

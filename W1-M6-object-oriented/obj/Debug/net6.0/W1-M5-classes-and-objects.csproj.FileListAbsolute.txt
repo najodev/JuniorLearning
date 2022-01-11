@@ -1,0 +1,15 @@
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/bin/Debug/net6.0/W1-M5-classes-and-objects
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/bin/Debug/net6.0/W1-M5-classes-and-objects.deps.json
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/bin/Debug/net6.0/W1-M5-classes-and-objects.runtimeconfig.json
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/bin/Debug/net6.0/W1-M5-classes-and-objects.dll
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/bin/Debug/net6.0/ref/W1-M5-classes-and-objects.dll
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/bin/Debug/net6.0/W1-M5-classes-and-objects.pdb
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/obj/Debug/net6.0/W1-M5-classes-and-objects.csproj.AssemblyReference.cache
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/obj/Debug/net6.0/W1-M5-classes-and-objects.GeneratedMSBuildEditorConfig.editorconfig
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/obj/Debug/net6.0/W1-M5-classes-and-objects.AssemblyInfoInputs.cache
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/obj/Debug/net6.0/W1-M5-classes-and-objects.AssemblyInfo.cs
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/obj/Debug/net6.0/W1-M5-classes-and-objects.csproj.CoreCompileInputs.cache
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/obj/Debug/net6.0/W1-M5-classes-and-objects.dll
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/obj/Debug/net6.0/ref/W1-M5-classes-and-objects.dll
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/obj/Debug/net6.0/W1-M5-classes-and-objects.pdb
+/home/najo/files/JuniorLearning/W1-M5-classes-and-objects/obj/Debug/net6.0/W1-M5-classes-and-objects.genruntimeconfig.cache
