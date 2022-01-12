@@ -1,0 +1,15 @@
+/home/najo/files/JuniorLearning/W1-M9-console-app/bin/Debug/net6.0/W1-M9-console-app
+/home/najo/files/JuniorLearning/W1-M9-console-app/bin/Debug/net6.0/W1-M9-console-app.deps.json
+/home/najo/files/JuniorLearning/W1-M9-console-app/bin/Debug/net6.0/W1-M9-console-app.runtimeconfig.json
+/home/najo/files/JuniorLearning/W1-M9-console-app/bin/Debug/net6.0/W1-M9-console-app.dll
+/home/najo/files/JuniorLearning/W1-M9-console-app/bin/Debug/net6.0/ref/W1-M9-console-app.dll
+/home/najo/files/JuniorLearning/W1-M9-console-app/bin/Debug/net6.0/W1-M9-console-app.pdb
+/home/najo/files/JuniorLearning/W1-M9-console-app/obj/Debug/net6.0/W1-M9-console-app.csproj.AssemblyReference.cache
+/home/najo/files/JuniorLearning/W1-M9-console-app/obj/Debug/net6.0/W1-M9-console-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/najo/files/JuniorLearning/W1-M9-console-app/obj/Debug/net6.0/W1-M9-console-app.AssemblyInfoInputs.cache
+/home/najo/files/JuniorLearning/W1-M9-console-app/obj/Debug/net6.0/W1-M9-console-app.AssemblyInfo.cs
+/home/najo/files/JuniorLearning/W1-M9-console-app/obj/Debug/net6.0/W1-M9-console-app.csproj.CoreCompileInputs.cache
+/home/najo/files/JuniorLearning/W1-M9-console-app/obj/Debug/net6.0/W1-M9-console-app.dll
+/home/najo/files/JuniorLearning/W1-M9-console-app/obj/Debug/net6.0/ref/W1-M9-console-app.dll
+/home/najo/files/JuniorLearning/W1-M9-console-app/obj/Debug/net6.0/W1-M9-console-app.pdb
+/home/najo/files/JuniorLearning/W1-M9-console-app/obj/Debug/net6.0/W1-M9-console-app.genruntimeconfig.cache
