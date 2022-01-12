@@ -1,6 +1,11 @@
 namespace classes
 {
+    /// <summary> 
+    /// Create a new bankaccount
+    /// </summary> 
+        public class BankAccount
     {
+
         /// <summary> 
         /// Number assigned to each account
         /// </summary>
@@ -26,8 +31,9 @@ namespace classes
                 return balance;
             }
         }
+
         /// <summary> 
-        /// Seed to assign all bank account classes a seed  
+        /// Seed to assign all bank account classes a seed 
         /// </summary>
         private static int accountNumberSeed = 1234567890;  
 
@@ -39,7 +45,6 @@ namespace classes
         /// <summary> 
         /// The minimumBalance allowed on the account
         /// </summary> 
-
         private readonly decimal minimumBalance;
 
         /// <summary> 
@@ -121,6 +126,7 @@ namespace classes
         /// <param name="note">
         /// Any notes on the withdrawal
         /// </param> 
+        
 
         public void MakeWithdrawal(decimal amount, DateTime date, string note)
         {
@@ -157,7 +163,7 @@ namespace classes
         /// Method that can be overriden for end of month transactions
         /// </summary> 
 
-        public virtual void PerformMonthEndTransactions()   {
+        public virtual void PerformMonthEndTransactions()          {
         }
 
     }

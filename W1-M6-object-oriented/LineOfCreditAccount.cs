@@ -1,7 +1,7 @@
 namespace classes
 {
     /// <summary> 
-    /// Line of credit account class
+    /// Create a new LineOfCreditAccount
     /// </summary> 
     public class LineOfCreditAccount : BankAccount
     {
@@ -18,7 +18,6 @@ namespace classes
         /// <param name="creditLimit">
         /// The limit of credit permitted on the account
         /// </param> 
-
         public LineOfCreditAccount(string name, decimal initialBalance, decimal creditLimit) : base(name, initialBalance -creditLimit)
         {
         }
@@ -36,6 +35,7 @@ namespace classes
 
         }
 
+        
         /// <summary> 
         /// Method to checkWithdrawalLimit
         /// </summary> 
@@ -48,4 +48,5 @@ namespace classes
             : default;
     }
 }
+
 
