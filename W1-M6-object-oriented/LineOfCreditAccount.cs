@@ -12,7 +12,7 @@ namespace classes
         /// <param name="name">
         /// The name of the account
         /// </param> 
-        /// <param name="initalBalance">
+        /// <param name="initialBalance">
         /// The initial Balance of the account
         /// </param> 
         /// <param name="creditLimit">
@@ -39,7 +39,7 @@ namespace classes
         /// <summary> 
         /// Method to checkWithdrawalLimit
         /// </summary> 
-        /// <param name="isOverDrawn">
+        /// <param name="isOverdrawn">
         /// Boolean of if the account has overdrawn money
         /// </param> 
         protected override Transaction? CheckWithdrawalLimit(bool isOverdrawn) =>
