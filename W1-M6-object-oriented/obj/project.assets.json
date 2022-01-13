@@ -8,25 +8,34 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/najo/.nuget/packages/": {}
+    "C:\\Users\\NickBeaugear_u\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/najo/files/JuniorLearning/W1-M6-object-oriented/W1-M6-object-orientated.csproj",
+      "projectUniqueName": "C:\\s\\najodev\\JuniorLearning\\W1-M6-object-oriented\\W1-M6-object-orientated.csproj",
       "projectName": "W1-M6-object-orientated",
-      "projectPath": "/home/najo/files/JuniorLearning/W1-M6-object-oriented/W1-M6-object-orientated.csproj",
-      "packagesPath": "/home/najo/.nuget/packages/",
-      "outputPath": "/home/najo/files/JuniorLearning/W1-M6-object-oriented/obj/",
+      "projectPath": "C:\\s\\najodev\\JuniorLearning\\W1-M6-object-oriented\\W1-M6-object-orientated.csproj",
+      "packagesPath": "C:\\Users\\NickBeaugear_u\\.nuget\\packages\\",
+      "outputPath": "C:\\s\\najodev\\JuniorLearning\\W1-M6-object-oriented\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/najo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\NickBeaugear_u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/TribeDevAu/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -58,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/najo/.local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
