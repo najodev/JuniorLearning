@@ -1,0 +1,15 @@
+/home/najo/files/JuniorLearning/W1-M7-inheritance/obj/Debug/net6.0/W1-M7-inheritance.csproj.AssemblyReference.cache
+/home/najo/files/JuniorLearning/W1-M7-inheritance/obj/Debug/net6.0/W1-M7-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/najo/files/JuniorLearning/W1-M7-inheritance/obj/Debug/net6.0/W1-M7-inheritance.AssemblyInfoInputs.cache
+/home/najo/files/JuniorLearning/W1-M7-inheritance/obj/Debug/net6.0/W1-M7-inheritance.AssemblyInfo.cs
+/home/najo/files/JuniorLearning/W1-M7-inheritance/obj/Debug/net6.0/W1-M7-inheritance.csproj.CoreCompileInputs.cache
+/home/najo/files/JuniorLearning/W1-M7-inheritance/bin/Debug/net6.0/W1-M7-inheritance
+/home/najo/files/JuniorLearning/W1-M7-inheritance/bin/Debug/net6.0/W1-M7-inheritance.deps.json
+/home/najo/files/JuniorLearning/W1-M7-inheritance/bin/Debug/net6.0/W1-M7-inheritance.runtimeconfig.json
+/home/najo/files/JuniorLearning/W1-M7-inheritance/bin/Debug/net6.0/W1-M7-inheritance.dll
+/home/najo/files/JuniorLearning/W1-M7-inheritance/bin/Debug/net6.0/ref/W1-M7-inheritance.dll
+/home/najo/files/JuniorLearning/W1-M7-inheritance/bin/Debug/net6.0/W1-M7-inheritance.pdb
+/home/najo/files/JuniorLearning/W1-M7-inheritance/obj/Debug/net6.0/W1-M7-inheritance.dll
+/home/najo/files/JuniorLearning/W1-M7-inheritance/obj/Debug/net6.0/ref/W1-M7-inheritance.dll
+/home/najo/files/JuniorLearning/W1-M7-inheritance/obj/Debug/net6.0/W1-M7-inheritance.pdb
+/home/najo/files/JuniorLearning/W1-M7-inheritance/obj/Debug/net6.0/W1-M7-inheritance.genruntimeconfig.cache
