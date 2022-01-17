@@ -5,9 +5,8 @@
     {
         static void Main(string[] args)
         {
-            /// <summary> 
-            /// Creates a gift Card account
-            /// </summary> 
+            
+            // Creates a gift Card account
             var giftCard = new GiftCardAccount("gift card", 100, 50);
             giftCard.MakeWithdrawal(20, DateTime.Now, "get expensive coffee");
             giftCard.MakeWithdrawal(50, DateTime.Now, "buy groceries");
@@ -15,9 +14,8 @@
             giftCard.MakeDeposit(27.50m, DateTime.Now, "add some additional spending money");
             Console.WriteLine(giftCard.GetAccountHistory());
 
-            /// <summary> 
-            /// Creates a saving Account
-            /// </summary> 
+ 
+            // Creates a saving Account 
             var savings = new InterestEarningAccount("savings account", 10000);
             savings.MakeDeposit(750, DateTime.Now, "save some money");
             savings.MakeDeposit(1250, DateTime.Now, "Add more savings");
@@ -27,9 +25,8 @@
             Console.WriteLine(savings.GetAccountHistory());
 
 
-            /// <summary> 
-            /// Creates a line of credit account
-            /// </summary> 
+ 
+            // Creates a line of credit account
             var lineOfCredit = new LineOfCreditAccount("line of credit", 0, 2000);
             lineOfCredit.MakeWithdrawal(1000m, DateTime.Now, "Take out monthly advance");
             lineOfCredit.MakeDeposit(50m, DateTime.Now, "Pay back small amount");

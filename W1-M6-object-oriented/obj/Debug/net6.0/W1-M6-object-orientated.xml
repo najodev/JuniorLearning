@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>W1-M6-object-orientated</name>
+    </assembly>
+    <members>
+        <member name="T:classes.BankAccount">
+            <summary> 
+            Create a new bankaccount
+            </summary> 
+        </member>
+        <member name="P:classes.BankAccount.Number">
+            <summary> 
+            Number assigned to each account
+            </summary>
+        </member>
+        <member name="P:classes.BankAccount.Owner">
+            <summary> 
+            Name of the owner of the account
+            </summary>
+        </member>
+        <member name="P:classes.BankAccount.Balance">
+            <summary> 
+            Balance of the account
+             </summary>
+        </member>
+        <member name="F:classes.BankAccount.accountNumberSeed">
+            <summary> 
+            Seed to assign all bank account classes a seed 
+            </summary>
+        </member>
+        <member name="F:classes.BankAccount.allTransactions">
+            <summary> 
+            Array containing all transactions 
+            </summary>
+        </member>
+        <member name="F:classes.BankAccount.minimumBalance">
+            <summary> 
+            The minimumBalance allowed on the account
+            </summary> 
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:classes.BankAccount.#ctor(System.String,System.Decimal)" -->
+        <!-- Badly formed XML comment ignored for member "M:classes.BankAccount.#ctor(System.String,System.Decimal,System.Decimal)" -->
+        <member name="M:classes.BankAccount.MakeDeposit(System.Decimal,System.DateTime,System.String)">
+            <summary> 
+            This function makes a deposit
+            </summary>
+            <param name="amount">
+            How much to deposit
+            </param>
+            <param name="date">
+            The date of the deposit
+            </param>
+            <param name="note">
+            notes on the deposit
+            </param>
+        </member>
+        <member name="M:classes.BankAccount.MakeWithdrawal(System.Decimal,System.DateTime,System.String)">
+            <summary> 
+            Method to make a withdrawal
+            </summary> 
+            <param name="amount">
+            Amount of the withdrawal
+            </param> 
+            <param name="date">
+            The date of the withdrawal
+            </param> 
+            <param name="note">
+            Any notes on the withdrawal
+            </param> 
+        </member>
+        <member name="M:classes.BankAccount.GetAccountHistory">
+            <summary> 
+            Stores the account history in an array
+            </summary> 
+        </member>
+        <member name="M:classes.BankAccount.PerformMonthEndTransactions">
+            <summary> 
+            Method that can be overriden for end of month transactions
+            </summary> 
+        </member>
+        <member name="F:classes.GiftCardAccount._monthlyDeposit">
+            <summary> 
+            The monthly deposit of account
+            </summary> 
+        </member>
+        <member name="M:classes.GiftCardAccount.#ctor(System.String,System.Decimal,System.Decimal)">
+            <summary> 
+            Constructor of gift card account
+            </summary> 
+            <param name="name">
+            The name of the Gift card account
+            </param> 
+            <param name="initialBalance">
+            The initial balance of the account
+            </param> 
+            <param name="monthlyDeposit">
+            The monthly deposit of the account
+            </param> 
+        </member>
+        <member name="M:classes.GiftCardAccount.PerformMonthEndTransactions">
+            <summary> 
+            Method that will override class method to create a monthly deposit
+            </summary> 
+        </member>
+        <member name="T:classes.InterestEarningAccount">
+            <summary>
+            Interest Earning account class
+            </summary>
+        </member>
+        <member name="M:classes.InterestEarningAccount.#ctor(System.String,System.Decimal)">
+            <summary> 
+            Interest Earning Account method
+            </summary> 
+            <param name="name">
+            name of the account
+            </param> 
+            <param name="initialBalance">
+            The inital balance of the account
+            </param> 
+        </member>
+        <member name="M:classes.InterestEarningAccount.PerformMonthEndTransactions">
+            <summary> 
+            Overide method for end of month transactions
+            </summary> 
+        </member>
+        <member name="T:classes.LineOfCreditAccount">
+            <summary> 
+            Create a new LineOfCreditAccount
+            </summary> 
+        </member>
+        <member name="M:classes.LineOfCreditAccount.#ctor(System.String,System.Decimal,System.Decimal)">
+            <summary> 
+            Method for line of credit account
+            </summary> 
+            <param name="name">
+            The name of the account
+            </param> 
+            <param name="initalBalance">
+            The initial Balance of the account
+            </param> 
+            <param name="creditLimit">
+            The limit of credit permitted on the account
+            </param> 
+        </member>
+        <member name="M:classes.LineOfCreditAccount.PerformMonthEndTransactions">
+            <summary> 
+            Overide method for end of month tansactions
+            </summary> 
+        </member>
+        <member name="M:classes.LineOfCreditAccount.CheckWithdrawalLimit(System.Boolean)">
+            <summary> 
+            Method to checkWithdrawalLimit
+            </summary> 
+            <param name="isOverDrawn">
+            Boolean of if the account has overdrawn money
+            </param> 
+        </member>
+        <member name="T:classes.Transaction">
+            <summary> 
+            Create a new transaction
+            </summary> 
+        </member>
+        <member name="P:classes.Transaction.Amount">
+            <summary>
+            Represents the amount
+            </summary>
+        </member>
+        <member name="P:classes.Transaction.Date">
+            <summary>
+            Represents the date of the transaction
+            </summary>
+        </member>
+        <member name="P:classes.Transaction.Notes">
+            <summary>
+            Notes about the transaction
+            </summary>
+        </member>
+        <member name="M:classes.Transaction.#ctor(System.Decimal,System.DateTime,System.String)">
+            <summary> 
+            Method to create a new transaction
+            </summary> 
+            <param name="amount">
+            The amount of the transaction
+            </param> 
+            <param name="date">
+            The date of the transaction
+            </param> 
+            <param name="note">
+            notes on the transaction
+            </param> 
+        </member>
+    </members>
+</doc>

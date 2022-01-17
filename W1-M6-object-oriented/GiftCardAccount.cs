@@ -1,6 +1,9 @@
 namespace classes
 {
 
+    /// <summary>
+    /// a Gift Card Account
+    /// </summary>
     public class GiftCardAccount : BankAccount
     {
         /// <summary> 
