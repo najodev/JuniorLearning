@@ -6,9 +6,19 @@ namespace classes
     /// </summary> 
     public class Transaction
     {
-
+        /// <summary>
+        /// Represents the amount
+        /// </summary>
         public decimal Amount { get; } 
+
+        /// <summary>
+        /// Represents the date of the transaction
+        /// </summary>
         public DateTime Date { get; }
+
+        /// <summary>
+        /// Notes about the transaction
+        /// </summary>
         public string Notes { get; }
         /// <summary> 
         /// Method to create a new transaction
