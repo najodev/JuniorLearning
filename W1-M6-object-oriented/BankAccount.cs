@@ -47,17 +47,10 @@ namespace classes
         /// </summary> 
         private readonly decimal minimumBalance;
 
+      
         /// <summary> 
         ///  Bank account constructor
-        ///  <summary> 
-        /// <param name="name">This will be the bank account name</param>
-        /// <param name="initialBalance">
-        /// this is the inital balance oft he bankaccount
-        ///</param>
-
-        /// <summary> 
-        ///  Bank account constructor
-        ///  <summary> 
+        /// </summary> 
         /// <param name="name">
         /// This will be the bank account name
         /// </param>
@@ -71,12 +64,15 @@ namespace classes
 
         /// <summary> 
         ///  Bank account constructor
-        ///  <summary> 
+        /// </summary> 
         /// <param name="name">
         /// This will be the bank account name
         /// </param>
         /// <param name="initialBalance">
         /// this is the inital balance oft he bankaccount
+        /// </param>
+        /// <param name="minimumBalance">
+        /// The minimum allowed balance
         /// </param>
         public BankAccount(string name, decimal initialBalance, decimal minimumBalance)
         {
@@ -131,6 +127,13 @@ namespace classes
         public void MakeWithdrawal(decimal amount, DateTime date, string note)
         {
         }
+
+        /// <summary>
+        /// Checks the withdrawal limit
+        /// </summary>
+        /// <param name="isOverDrawn">Whether or not its overdrawn</param>
+        /// <returns>A Transaction</returns>
+        /// <exception cref="InvalidOperationException">Fires this if overdrawn</exception>
         protected virtual Transaction? CheckWithdrawalLimit(bool isOverDrawn)
         {
             if (isOverDrawn)
