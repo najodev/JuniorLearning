@@ -29,8 +29,8 @@ Week 1
 - [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/inheritance
 - [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/exploration/interpolated-strings
 - [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-teleprompter
-- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-webapiclient
-- [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/working-with-linq
+- [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/console-webapiclient
+- [x] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/working-with-linq
 - [ ] https://docs.microsoft.com/en-au/dotnet/csharp/tutorials/attributes
 - [ ] https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN
 

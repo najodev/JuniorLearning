@@ -7,4 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = W1_M5_classes_and_objects
+<<<<<<< HEAD
+build_property.ProjectDir = /home/najo/files/JuniorLearning_backup/W1-M5-classes-and-objects/
+=======
 build_property.ProjectDir = C:\s\najodev\JuniorLearning\W1-M5-classes-and-objects\
+>>>>>>> main
