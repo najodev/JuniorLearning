@@ -1,4 +1,4 @@
-public class Tetrimino
+public class Tetromino
 
 {
 
@@ -7,7 +7,7 @@ public class Tetrimino
 
 
     /// <summary>
-    ///  Tetrimino orientation
+    ///  Tetromino orientation
     /// </summary>
     /// <value>Default value is LeftRight</value>
     public TetrominoOrientation Orientation { get; set; }
@@ -27,7 +27,7 @@ public class Tetrimino
     public virtual CellCollection CoveredCells { get; }
 
 
-    public Tetrimino(Grid grid)
+    public Tetromino(Grid grid)
     {
         Grid = grid;
 
@@ -39,7 +39,7 @@ public class Tetrimino
 
     public bool CanMoveLeft()
     {
-        foreach (var cell in CoveredCells.GeLeftMost())
+        foreach (var cell in CoveredCells.GetLeftMost())
 
         {
 
@@ -87,7 +87,7 @@ public class Tetrimino
 
     public bool CanMoveDown()
     {
-        
+
         foreach (var coord in CoveredCells.GetLowest())
         {
             if (Grid.Cells.Contains(coord.Row - 1, coord.Column))
