@@ -2,16 +2,15 @@
 @inject HttpClient HttpClient
 @inject OrderState OrderState
 @inject NavigationManager NavigationManager
+@inject IJSRuntime JS
 
 <div class="main">
-
     <ul class="pizza-cards">
         @if (specials != null)
         {
             @foreach (var special in specials)
             {
                 <li @onclick="@(() => OrderState.ShowConfigurePizzaDialog(special))" style="background-image: url('@special.ImageUrl')">
-
                     <div class="pizza-info">
                         <span class="title">@special.Name</span>
                         @special.Description
@@ -31,7 +30,7 @@
 
             @foreach (var configuredPizza in Order.Pizzas)
             {
-                <ConfiguredPizzaItem Pizza="configuredPizza" OnRemoved="@(() => OrderState.RemoveConfiguredPizza(configuredPizza))" />
+                <ConfiguredPizzaItem Pizza="configuredPizza" OnRemoved="@(() => RemovePizza(configuredPizza))" />
             }
         </div>
     }
@@ -64,5 +63,13 @@
     protected override async Task OnInitializedAsync()
     {
         specials = await HttpClient.GetFromJsonAsync<List<PizzaSpecial>>("specials");
+    }
+
+    async Task RemovePizza(Pizza configuredPizza)
+    {
+        if (await JS.Confirm($"Remove {configuredPizza.Special.Name} pizza from the order?"))
+        {
+            OrderState.RemoveConfiguredPizza(configuredPizza);
+        }
     }
 }

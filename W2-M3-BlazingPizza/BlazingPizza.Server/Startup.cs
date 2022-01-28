@@ -19,20 +19,21 @@ namespace BlazingPizza.Server
 
         public void ConfigureServices(IServiceCollection services)
         {
-    services.AddControllersWithViews();
-    services.AddRazorPages();
+            services.AddControllersWithViews();
+            services.AddRazorPages();
 
-    services.AddDbContext<PizzaStoreContext>(options => 
-        options.UseSqlite("Data Source=pizza.db"));
+            services.AddDbContext<PizzaStoreContext>(options => 
+                options.UseSqlite("Data Source=pizza.db"));
 
-    services.AddDefaultIdentity<PizzaStoreUser>(options => options.SignIn.RequireConfirmedAccount = true)
-        .AddEntityFrameworkStores<PizzaStoreContext>();
+            services.AddDefaultIdentity<PizzaStoreUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                .AddEntityFrameworkStores<PizzaStoreContext>();
 
-    services.AddIdentityServer()
-        .AddApiAuthorization<PizzaStoreUser, PizzaStoreContext>();
+            services.AddIdentityServer()
+                .AddApiAuthorization<PizzaStoreUser, PizzaStoreContext>();
 
-    services.AddAuthentication()
-        .AddIdentityServerJwt();       }
+            services.AddAuthentication()
+                .AddIdentityServerJwt();
+        }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
